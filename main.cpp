@@ -1,5 +1,7 @@
-#include <iostream>
+#include "Funciones.h"
+using namespace std;
 int main(int argc, char **argv){
+
     /*
     ** comprobador de lectura de argumentos por consola al momento de ejecutar
     cout<<"\tse ha operado el programa con " <<argc<<" argumentos \n";
@@ -9,5 +11,7 @@ int main(int argc, char **argv){
     **
     */
 
+
    return 0;
+
 }
